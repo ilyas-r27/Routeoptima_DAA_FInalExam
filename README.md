@@ -1,6 +1,6 @@
-# RouteOptima — Smart Delivery Routing 
+# RouteOptima - Smart Delivery Routing 
 
-**EF234405 Design & Analysis of Algorithms — Final Exam (Group Capstone Project)**
+**EF234405 Design & Analysis of Algorithms - Final Exam (Group Capstone Project)**
 
 RouteOptima models a city road network as a weighted undirected graph and finds the shortest delivery route between any two locations using two classic shortest-path algorithms:
 
