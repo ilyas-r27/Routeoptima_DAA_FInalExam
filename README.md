@@ -13,9 +13,9 @@ Both algorithms are implemented **from scratch** (no library shortest-path calls
 
 | Name | Student ID | Role |
 |------|-----------|------|
-| Muhammad Ilyas Rusdi | 5025241007 | [Role] |
-| Bismantaka | [NRP] | [Role] |
-| [Member 3] | [NRP] | [Role] |
+| Muhammad Ilyas Rusdi | 5025241007 | Leader |
+| Bismantaka Revano Dirgantara | 5025241075 | Member |
+
 
 ## Project Structure
 
