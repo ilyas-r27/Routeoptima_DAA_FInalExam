@@ -2,7 +2,7 @@
 Dijkstra's shortest-path algorithm using a binary min-heap.
 
 Time complexity:  O((V + E) log V)
-Space complexity: O(V + E)
+Space complexity: O(V + E) 
 
 Requires all edge weights to be non-negative.
 """
