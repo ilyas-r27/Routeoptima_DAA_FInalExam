@@ -6,3 +6,4 @@ V,E,dijkstra_avg_ms,dijkstra_min_ms,bellman_ford_avg_ms,bellman_ford_min_ms,spee
 2500,15000,6.7759,6.3676,33.8373,31.6327,4.99,PASS
 5000,30000,15.4513,14.6147,81.2357,72.7307,5.26,PASS
 10000,60000,40.169,37.4085,221.0068,205.0685,5.5,PASS
+ 
