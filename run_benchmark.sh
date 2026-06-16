@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/usr/bin/env bash 
 # RouteOptima — One-command benchmark
 # Usage: bash run_benchmark.sh
 set -e
